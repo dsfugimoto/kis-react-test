@@ -4,7 +4,7 @@ We've prepared some questions for you to answer.
 
 For each question:
 * Create a new branch called: `feature/{question}`, ie: `feature/question1`;
-* Write your answer inside the equivalent component;
+* Write your answer inside the equivalent component (inside the `src/` directory);
 * Once you finish it, create a PR back to `main`.
 
 Once you finish all questions, please contact us and we will review your test.
