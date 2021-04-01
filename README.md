@@ -1,18 +1,18 @@
 # Hello! Welcome to our React Test!
 
-We've prepared 3 questions for you to answer.
+We've prepared some questions for you to answer.
 
 For each question:
 * Create a new branch called: `feature/{question}`, ie: `feature/question1`;
 * Write your answer inside the equivalent component;
 * Once you finish it, create a PR back to `main`.
 
-Once you finish all 3 questions, please contact us and we will review your test.
+Once you finish all questions, please contact us and we will review your test.
 
 ## General "rules"
 
 1. Feel free to search the internet for things you don't know or are not sure about;
-2. Don't import any external library. For question 4 you can import Axios (it's included in the project already);
+2. Don't import any external library. For question 4 you can import and use `Axios` (it's included in the project already);
 3. Don't worry about styling your components. Your code should be clean and well documented instead;
 
 ## How to run this project?
