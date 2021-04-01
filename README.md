@@ -22,4 +22,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone this repo in your machine;
 2. Run it in the terminal: `yarn start` or `npm start`;
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser;
-4. You should be able to see all questions there. If you have any questions please, let us know.
+4. You should be able to see all questions there.
